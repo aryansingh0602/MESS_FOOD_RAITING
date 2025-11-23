@@ -35,3 +35,11 @@ report.docx - project report
 
 
 <img width="1024" height="745" alt="image" src="https://github.com/user-attachments/assets/fd98bd95-a5db-45f2-8b53-baf7aeb4b941" />
+
+
+output:-->
+
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1b695afc-1afe-4f80-a439-40358505718e" />
+
