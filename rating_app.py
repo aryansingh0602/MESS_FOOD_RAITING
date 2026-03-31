@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Simple Mess Food Rating System
-Author: <Your Name>
+Author: Dadu Aryan Singh
 Date: 2025-11-24
 """
 
